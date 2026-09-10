@@ -1,0 +1,20 @@
+{
+    "modelo": "MLP_RECLAMACAO_15D",
+    "data_execucao": "2026-09-10 14:25:06",
+    "melhor_trial": 10,
+    "melhor_val_auc": 0.7880495190620422,
+    "hiperparametros": {
+        "batch_size": 1024,
+        "learning_rate": 0.0013543895703304,
+        "dropout": 0.34711605423693226,
+        "l2": 8.696637900392942e-06,
+        "n_layers": 2,
+        "activation": "relu",
+        "units_0": 256,
+        "units_1": 256
+    },
+    "class_weight": {
+        "0": 0.5235511544561132,
+        "1": 11.11519088016967
+    }
+}
